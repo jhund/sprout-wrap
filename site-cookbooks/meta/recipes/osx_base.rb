@@ -13,3 +13,8 @@ include_recipe "pivotal_workstation::mouse_locator"
 include_recipe "sprout-osx-settings::defaults_fast_key_repeat_rate"
 include_recipe "pivotal_workstation::menumeters"
 include_recipe "pivotal_workstation::bettertouchtool"
+
+include_recipe "pivotal_workstation::evernote"
+include_recipe "pivotal_workstation::libreoffice"
+include_recipe "pivotal_workstation::set_finder_show_user_home_in_sidebar"
+include_recipe "pivotal_workstation::vlc"
