@@ -4,6 +4,16 @@
 
 Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](https://github.com/mkocher/soloist) and [Pivotal Workstation](https://github.com/pivotal/pivotal_workstation)
 
+## Modifications by Jo Hund
+
+I modified the meta recipes to include the software and settings I prefer:
+
+* removed settings specific to Pivotal
+* added Evernote, LibreOffice and VLC
+* removed RubyMine
+* Added Redis and SequelPro
+
+
 ## Installation
 
 ### 1. Install XCode
