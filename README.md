@@ -26,7 +26,7 @@ I modified the meta recipes to include the software and settings I prefer:
   
 ### 3. Clone this project
   
-    git clone https://github.com/pivotal-sprout/sprout-wrap.git
+    git clone https://github.com/jhund/sprout-wrap.git
     cd sprout-wrap
   
 ### 4. Install soloist & and other required gems
