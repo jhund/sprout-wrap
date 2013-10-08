@@ -16,6 +16,6 @@ include_recipe "sprout-osx-apps::vagrant"
 include_recipe "sprout-osx-apps::virtualbox"
 
 include_recipe "pivotal_workstation::memcached"
-include_recipe "pivotal_workstation::omnigraffle"
+# include_recipe "pivotal_workstation::omnigraffle"
 include_recipe "pivotal_workstation::source_code_pro_font"
 include_recipe "pivotal_workstation::sublime_text"
