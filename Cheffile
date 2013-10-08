@@ -4,8 +4,7 @@ cookbook 'meta',
   :path => 'site-cookbooks/meta'
 
 cookbook 'sprout-osx-base',
-  :git => 'git://github.com/trinitronx/sprout.git',
-  :ref => 'develop',
+  :git => 'git://github.com/pivotal-sprout/sprout.git',
   :path => 'sprout-osx-base'
 
 cookbook 'pivotal_workstation',
