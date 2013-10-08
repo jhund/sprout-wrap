@@ -1,4 +1,4 @@
-include_recipe "pivotal_workstation::rvm"
+#include_recipe "pivotal_workstation::rvm"
 include_recipe "pivotal_workstation::gem_setup"
 include_recipe "pivotal_workstation::mysql"
 include_recipe "pivotal_workstation::postgres"
